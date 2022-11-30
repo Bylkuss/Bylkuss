@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bylkuss
 - 👀 I’m interested in programming and computer science
-- 🌱 I’m currently learning C an Js
+- 🌱 I’m currently learning C, C++ and Js
 - 📫 How to reach me 
    ig: https://www.instagram.com/_bylkuss_/
    

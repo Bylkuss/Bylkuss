@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and computer science
 - 🌱 I’m currently learning C, C++ and Js at 42 Québec
 
-![bylkuss's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![bylkuss's GitHub stats](https://github-readme-stats.vercel.app/api?username=bylkuss&show_icons=true&theme=radical)
 
 [![loadjou's 42 stats](https://badge42.vercel.app/api/v2/clbxx8bh900850fma11krr7et/stats?cursusId=21&coalitionId=242)](https://github.com/bylkuss) 
 

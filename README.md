@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bylkuss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
-   📫 How to reach me:
+   📫 <b>How to reach me:</b>
    <a href="https://www.youtube.com/@bylkus4196/featured" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="diegofcolunalopez" height="28px" width="28px" />
   </a>
